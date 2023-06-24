@@ -1,0 +1,78 @@
+body {
+    background-image: url(image/Ocean-2.5s-1366px.png);
+    background-size: cover;
+    background-attachment: fixed;
+    color: rgb(19, 101, 141);
+}
+
+h1 {
+    margin-left: 640px;
+    font-size: 50px;
+    color: white;
+}
+
+p {
+    margin-left: 545px;
+    font-size: 30px;
+}
+
+.stanza-1 {
+    margin-left: 420px;
+    padding: 10px;
+    width: 500px;
+    text-align: center;
+}
+
+.stanza-2 {
+    margin-left: 420px;
+    padding: 10px;
+    width: 500px;
+    text-align: center;
+}
+
+.stanza-3 {
+    margin-left: 420px;
+    padding: 10px;
+    width: 500px;
+    text-align: center;
+}
+
+.stanza-4 {
+    margin-left: 420px;
+    padding: 10px;
+    width: 500px;
+    text-align: center;
+}
+
+.stanza-1:hover {
+    transition: 0.5s;
+    background-color: rgba(18, 112, 170, 0.838);
+    border-radius: 15px;
+    transform: scale(1.5);
+    z-index: 3;
+    color: white;
+}
+
+.stanza-2:hover {
+    transition: 0.5s;
+    background-color: rgba(18, 112, 170, 0.838);
+    border-radius: 15px;
+    transform: scale(1.5);
+    color: white;
+}
+
+.stanza-3:hover {
+    transition: 0.5s;
+    background-color: rgba(18, 112, 170, 0.838);
+    border-radius: 15px;
+    transform: scale(1.5);
+    color: white;
+}
+
+.stanza-4:hover {
+    transition: 0.5s;
+    background-color: rgba(18, 112, 170, 0.838);
+    border-radius: 15px;
+    transform: scale(1.5);
+    color: white;
+}
